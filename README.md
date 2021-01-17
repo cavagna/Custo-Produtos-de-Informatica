@@ -4,7 +4,7 @@
 
 ### Neste projeto foi analisado algumas questões referentes aos dados da Linio.
 
-#### Questões abordadas:
+#### Análise Exploratória:
 ##### Quais são os 5 melhores países para se comprar um iPhone?
 ##### Qual o melhor país para se comprar produtos da Microsoft?
 ##### Quais são os 3 países com produtos mais caros?
