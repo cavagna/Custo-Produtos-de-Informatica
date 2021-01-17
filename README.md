@@ -17,4 +17,4 @@
 ![](imagens/fig_4.png)
 
 ## Conclusão do Projeto
-<p align="center">Após a análise dos dados é notório que, não existe muita diferença de preço nos países analisados, fazendo com que determinados produtos tenham um melhor custo em uma região e outros produtos em outras regiões. A única grande diferença no que diz respeito a custa fica a cargo da Venezuela que possui um custo médio aproximadamente 500% mair que os demais países.</p>
+<p align="justify">Após a análise dos dados é notório que, não existe muita diferença de preço nos países analisados, fazendo com que determinados produtos tenham um melhor custo em uma região e outros produtos em outras regiões. A única grande diferença no que diz respeito a custa fica a cargo da Venezuela que possui um custo médio aproximadamente 500% mair que os demais países.</p>
