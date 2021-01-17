@@ -8,5 +8,8 @@
 ##### Quais são os 5 melhores países para se comprar um iPhone?
 ![](imagens/fig_1.png)
 ##### Qual o melhor país para se comprar produtos da Microsoft?
+![](imagens/fig_2.png)
 ##### Quais são os 3 países com produtos mais caros?
+![](imagens/fig_3.png)
 ##### Quais são os 3 países com produtos mais baratos?
+![](imagens/fig_4.png)
