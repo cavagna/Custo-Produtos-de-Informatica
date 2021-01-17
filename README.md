@@ -14,3 +14,5 @@
 ![](imagens/fig_3.png)
 #### Quais são os 3 países com produtos mais baratos?
 ![](imagens/fig_4.png)
+
+### Ap
